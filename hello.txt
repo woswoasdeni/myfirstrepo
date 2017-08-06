@@ -1,4 +1,6 @@
 Hi,
 
 this is a file.
+Neue Zeile lokal,
+Another new line local.
 This is another line.
