@@ -2,3 +2,4 @@ Hi,
 
 this is a file.
 This is another line.
+Neue Zeile im master.
